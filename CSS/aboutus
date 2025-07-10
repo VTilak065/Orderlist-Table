@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achivers IT Homepage</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <!-- Header starts here-->
+     <head>
+        <div class="LogoDivision">
+            <img src="https://www.achieversit.com/assets/images/logo-white.png" alt="ait-logo">
+        </div>
+        <div class="Headernav">
+            <nav class="navbar">
+                <ul class="nav-list">
+                    <li><a href="./home.html">Home</a></li>
+                    <li><a href="./placements.html">placements</a></li>
+                    <li><a href="./internships">InternShips</a></li>
+                    <li><a href="./aboutus">Aboutus</a></li>
+                    <li><a href="./reviews">Reviews</a></li>
+                </ul>
+            </nav>
+        </div>
+     </head>
+</body>
+</html>

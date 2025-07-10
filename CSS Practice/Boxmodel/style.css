@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.info-box{
+    /* width: 300px; */
+    height: auto;
+    border: 1px solid black;
+    padding: 20px 30px;
+    background-color: rgb(176, 102, 245);
+    text-align: center;
+    color: white;
+    margin: 50px 50px;
+    border-radius: 15px;
+}
+
