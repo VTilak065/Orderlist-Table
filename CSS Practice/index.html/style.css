@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(58, 8, 8);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    font-size: xx-large;
+    text-align: center;
+
+}
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+
+.card{
+    background-color: rgb(231, 91, 91);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    box box-shadow: 0 0 10px gray;
+    width: 250px;
+}
+card .img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+h3{
+    color: color-mix(in hsl shorter hue, color percentage, color percentage);
+    font-size: large;
+    width: 50px;
+    padding-left: 
+}

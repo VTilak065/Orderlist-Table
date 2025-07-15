@@ -1,0 +1,40 @@
+/* universal selector*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* TAg selector*/
+h1{
+    color: aqua;
+}
+h2{
+    color: rgb(255, 0, 0);
+}
+h3{
+    color: rgb(89, 255, 0);
+        text-shadow: text-shadow: 2px 2px 1000px black;
+}
+
+/* class selectors*/
+.departure{
+    color: aqua;
+}
+.arrival{
+    color: rgb(227, 198, 11);
+    text-shadow: text-shadow: 2px 2px 1000px black;
+}
+
+.redBusLogo{
+    height: 60px;
+    width: 60px;
+}
+/* Grouping */
+.departure, .arrival{
+    font-size: 30px;
+    color: coral;
+}
+/* Id selectors*/
+#mainHeader{
+    background-color: rgb(255, 255, 255);
+}
